@@ -1,0 +1,17 @@
+
+
+.navbar-default {border-color:#4256e6}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover ,
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover{background-color:#856ed2;}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {color:#4256e6; }
+.btn-default:hover {background-color:#856ed2;}
+.form-control::placeholder {color:#5830dd;}
+.company-info span {color: #4256e6;}
+.btn-More{background-color:#856ed2;}
+.btn-More:hover{background-color:#6142c8;}
+#carousel-text h1 {color:#5830dd}
+.footer h3 {color:#5830dd;}
+.color-option ul li {background-color:#6142c8;}
+.geer-check {background-color:#6142c8;}
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {background-color:#6142c8;}
+.copyright span {color:#6142c8;}

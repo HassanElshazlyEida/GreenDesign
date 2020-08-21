@@ -1,0 +1,15 @@
+.navbar-default {border-color:#e7346d}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover ,
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover{background-color:#cc4a4a;}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {color:#e7346d; }
+.btn-default:hover {background-color:#cc4a4a;}
+.form-control::placeholder {color:#ff0e5c;}
+.company-info span {color: #c2305f;}
+.btn-More{background-color:#ff0e5c;}
+.btn-More:hover{background-color:#cc4a4a;}
+#carousel-text h1 {color:#e7346d}
+.footer h3 {color:#ff0e5c;}
+.color-option ul li {background-color:#ff0e5c;}
+.geer-check {background-color:#e7346d;}
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {background-color:#e7346d;}
+.copyright span {color:#ff0e5c;}
